@@ -1,5 +1,7 @@
 {
   "name": "tejali",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
